@@ -1,0 +1,6 @@
+Driver: nirajan
+Vehicle: Bike
+Rating: 4.0
+Distance: 10.0 km
+Fare: Rs. 150.0
+-------------------------
